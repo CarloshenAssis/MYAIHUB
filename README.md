@@ -9,7 +9,7 @@ Sistema pessoal de gestão de conhecimento sobre IA — não é um marketplace, 
 - [Next.js](https://nextjs.org) (App Router)
 - TypeScript
 - TailwindCSS
-- shadcn/ui (a partir da Fase 1)
+- shadcn/ui
 - Supabase (banco e autenticação, a partir da Fase 3)
 - Vercel (deploy)
 
@@ -31,4 +31,4 @@ Abra [http://localhost:3000](http://localhost:3000) no navegador.
 
 ## Status
 
-Projeto em construção incremental por fases, conforme `docs/SPEC-V1.md` (seção 28). Fase atual: **Fase 0 — Arquitetura** concluída.
+Projeto em construção incremental por fases, conforme `docs/SPEC-V1.md` (seção 28). Fase atual: **Fase 1 — Design System + Shell** concluída (dados mockados, sem backend).
